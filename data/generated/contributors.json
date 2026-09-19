@@ -104,6 +104,9 @@
     "annabellscha",
     "marcklingen"
   ],
+  "/academy/monitoring/capturing-signals": [
+    "Lotte-Verheyden"
+  ],
   "/academy/monitoring/error-analysis": [
     "Lotte-Verheyden",
     "annabellscha",
@@ -119,6 +122,28 @@
     "Lotte-Verheyden",
     "bezbac",
     "annabellscha",
+    "marcklingen"
+  ],
+  "/compare/arize-phoenix": [
+    "niklassemmler",
+    "marcklingen"
+  ],
+  "/compare/braintrust": [
+    "niklassemmler",
+    "marcklingen"
+  ],
+  "/compare/datadog": [
+    "niklassemmler",
+    "marcklingen"
+  ],
+  "/compare/galileo": [
+    "marcklingen"
+  ],
+  "/compare/index": [
+    "marcklingen"
+  ],
+  "/compare/langsmith": [
+    "niklassemmler",
     "marcklingen"
   ],
   "/docs/administration/audit-logs": [
@@ -141,14 +166,16 @@
     "Lotte-Verheyden"
   ],
   "/docs/administration/data-deletion": [
+    "dmitrymaranik",
     "jannikmaierhoefer",
     "Lotte-Verheyden",
     "FroeMic",
     "marcklingen"
   ],
   "/docs/administration/data-retention": [
-    "jannikmaierhoefer",
     "Lotte-Verheyden",
+    "AkioNuernberger",
+    "jannikmaierhoefer",
     "Steffen911",
     "marcklingen",
     "nimarb"
@@ -217,6 +244,7 @@
     "wochinge"
   ],
   "/docs/api-and-data-platform/features/mcp-server": [
+    "LysanderKie",
     "Lotte-Verheyden",
     "sumerman",
     "jannikmaierhoefer",
@@ -228,22 +256,22 @@
     "FroeMic"
   ],
   "/docs/api-and-data-platform/features/observations-api": [
+    "Lotte-Verheyden",
     "sumerman",
     "CodeCLS",
     "maxdeichmann",
     "hassiebp",
-    "Lotte-Verheyden",
     "niklassemmler",
     "Steffen911"
   ],
   "/docs/api-and-data-platform/features/public-api": [
+    "niklassemmler",
     "Lotte-Verheyden",
     "hassiebp",
     "maxdeichmann",
     "marliessophie",
     "nimarb",
     "marcklingen",
-    "niklassemmler",
     "jannikmaierhoefer",
     "clemra",
     "sumerman",
@@ -252,11 +280,11 @@
     "felixkrrr"
   ],
   "/docs/api-and-data-platform/features/query-via-sdk": [
+    "niklassemmler",
     "hassiebp",
     "marliessophie",
     "nimarb",
     "jannikmaierhoefer",
-    "niklassemmler",
     "maxdeichmann",
     "Lotte-Verheyden",
     "sumerman",
@@ -269,9 +297,10 @@
     "niklassemmler"
   ],
   "/docs/api-and-data-platform/overview": [
+    "niklassemmler",
+    "Lotte-Verheyden",
     "marcklingen",
     "marliessophie",
-    "Lotte-Verheyden",
     "jannikmaierhoefer",
     "maxdeichmann",
     "FroeMic"
@@ -289,8 +318,9 @@
     "Steffen911"
   ],
   "/docs/demo": [
-    "Lotte-Verheyden",
     "jannikmaierhoefer",
+    "maxdeichmann",
+    "Lotte-Verheyden",
     "annabellscha",
     "bezbac",
     "marcklingen",
@@ -303,24 +333,25 @@
     "marcklingen"
   ],
   "/docs/evaluation/agentic-access": [
+    "jannikmaierhoefer",
     "Lotte-Verheyden"
   ],
   "/docs/evaluation/core-concepts": [
+    "jannikmaierhoefer",
     "wochinge",
     "marcklingen",
     "Lotte-Verheyden",
     "maxdeichmann",
-    "jannikmaierhoefer",
     "bezbac"
   ],
   "/docs/evaluation/evaluation-methods/annotation-queues": [
+    "jannikmaierhoefer",
     "nkabardin",
     "maxdeichmann",
     "bezbac",
     "wochinge",
     "marliessophie",
-    "Lotte-Verheyden",
-    "jannikmaierhoefer"
+    "Lotte-Verheyden"
   ],
   "/docs/evaluation/evaluation-methods/code-evaluators": [
     "Lotte-Verheyden",
@@ -352,10 +383,10 @@
     "FroeMic"
   ],
   "/docs/evaluation/evaluation-methods/scores-via-sdk": [
+    "Lotte-Verheyden",
     "hande-k",
     "niklassemmler",
     "i-anubhav-anand",
-    "Lotte-Verheyden",
     "hassiebp",
     "wochinge",
     "marcklingen",
@@ -368,18 +399,24 @@
     "Lotte-Verheyden",
     "jannikmaierhoefer"
   ],
+  "/docs/evaluation/experiments/compare-experiments": [
+    "jannikmaierhoefer"
+  ],
   "/docs/evaluation/experiments/data-model": [
-    "maxdeichmann",
+    "niklassemmler",
     "marliessophie",
+    "jannikmaierhoefer",
+    "maxdeichmann",
     "wochinge",
     "bezbac",
     "Lotte-Verheyden",
     "hassiebp"
   ],
   "/docs/evaluation/experiments/datasets": [
+    "Lotte-Verheyden",
+    "jannikmaierhoefer",
     "hande-k",
     "maxdeichmann",
-    "jannikmaierhoefer",
     "wochinge",
     "bezbac",
     "marliessophie",
@@ -388,25 +425,27 @@
     "AkioNuernberger"
   ],
   "/docs/evaluation/experiments/experiments-ci-cd": [
+    "jannikmaierhoefer",
     "bezbac",
     "Lotte-Verheyden"
   ],
   "/docs/evaluation/experiments/experiments-via-opentelemetry": [
+    "niklassemmler",
     "maxdeichmann"
   ],
   "/docs/evaluation/experiments/experiments-via-sdk": [
+    "jannikmaierhoefer",
     "maxdeichmann",
     "marcklingen",
     "marliessophie",
     "wochinge",
     "bezbac",
     "Lotte-Verheyden",
-    "jannikmaierhoefer",
     "hassiebp"
   ],
   "/docs/evaluation/experiments/experiments-via-ui": [
-    "maxdeichmann",
     "jannikmaierhoefer",
+    "maxdeichmann",
     "wochinge",
     "bezbac",
     "marliessophie",
@@ -415,8 +454,8 @@
     "hassiebp"
   ],
   "/docs/evaluation/get-started/offline": [
-    "Lotte-Verheyden",
     "jannikmaierhoefer",
+    "Lotte-Verheyden",
     "marcklingen"
   ],
   "/docs/evaluation/get-started/online": [
@@ -425,10 +464,10 @@
     "marcklingen"
   ],
   "/docs/evaluation/overview": [
+    "jannikmaierhoefer",
     "marcklingen",
     "Lotte-Verheyden",
     "maxdeichmann",
-    "jannikmaierhoefer",
     "wochinge",
     "bezbac",
     "aabedraba",
@@ -458,9 +497,9 @@
     "jannikmaierhoefer"
   ],
   "/docs/index": [
+    "jannikmaierhoefer",
     "marcklingen",
     "Lotte-Verheyden",
-    "jannikmaierhoefer",
     "wochinge",
     "felixkrrr",
     "hassiebp",
@@ -470,8 +509,8 @@
     "NicHaley"
   ],
   "/docs/langfuse-assistant": [
-    "nimarb",
     "LysanderKie",
+    "nimarb",
     "marksalpeter",
     "marcklingen",
     "bezbac"
@@ -485,6 +524,7 @@
     "marcklingen"
   ],
   "/docs/metrics/features/metrics-api": [
+    "niklassemmler",
     "sumerman",
     "AkioNuernberger",
     "marcklingen",
@@ -504,8 +544,8 @@
     "jannikmaierhoefer"
   ],
   "/docs/observability/data-model": [
-    "marcklingen",
     "Lotte-Verheyden",
+    "marcklingen",
     "maxdeichmann",
     "varunkandukuri24",
     "bezbac",
@@ -530,6 +570,7 @@
     "Lotte-Verheyden"
   ],
   "/docs/observability/features/comments": [
+    "Lotte-Verheyden",
     "bezbac",
     "nimarb",
     "jannikmaierhoefer",
@@ -537,9 +578,9 @@
     "marcklingen"
   ],
   "/docs/observability/features/corrections": [
+    "niklassemmler",
     "Lotte-Verheyden",
     "hassiebp",
-    "niklassemmler",
     "bezbac",
     "marliessophie"
   ],
@@ -555,17 +596,20 @@
     "nkabardin"
   ],
   "/docs/observability/features/filter-search-bar": [
+    "LysanderKie",
     "marcklingen",
     "nkabardin",
     "Steffen911",
     "wochinge"
   ],
   "/docs/observability/features/full-text-search": [
+    "niklassemmler",
     "Lotte-Verheyden",
     "nkabardin",
     "jannikmaierhoefer"
   ],
   "/docs/observability/features/log-levels": [
+    "Lotte-Verheyden",
     "jannikmaierhoefer",
     "hassiebp",
     "marcklingen"
@@ -587,6 +631,7 @@
     "marcklingen"
   ],
   "/docs/observability/features/multi-modality": [
+    "Lotte-Verheyden",
     "wochinge",
     "hassiebp",
     "AkioNuernberger",
@@ -598,6 +643,7 @@
     "marcklingen"
   ],
   "/docs/observability/features/observation-types": [
+    "Lotte-Verheyden",
     "jannikmaierhoefer",
     "hassiebp",
     "nimarb"
@@ -621,6 +667,7 @@
     "marcklingen"
   ],
   "/docs/observability/features/sampling": [
+    "Lotte-Verheyden",
     "hassiebp",
     "jannikmaierhoefer",
     "marcklingen"
@@ -679,43 +726,45 @@
     "nimarb"
   ],
   "/docs/observability/get-started": [
-    "marcklingen",
+    "maxdeichmann",
     "Lotte-Verheyden",
     "jannikmaierhoefer",
+    "marcklingen",
     "bezbac",
     "hassiebp",
     "felixkrrr"
   ],
   "/docs/observability/overview": [
+    "jannikmaierhoefer",
     "marcklingen",
     "annabellscha",
     "Lotte-Verheyden",
-    "jannikmaierhoefer",
     "bezbac",
     "DrRinkiArya"
   ],
   "/docs/observability/sdk/advanced-features": [
+    "Lotte-Verheyden",
+    "jannikmaierhoefer",
     "hassiebp",
     "bezbac",
-    "maxdeichmann",
-    "Lotte-Verheyden",
-    "jannikmaierhoefer"
+    "maxdeichmann"
   ],
   "/docs/observability/sdk/instrumentation": [
+    "Lotte-Verheyden",
     "hassiebp",
     "bezbac",
     "maxdeichmann",
     "jannikmaierhoefer"
   ],
   "/docs/observability/sdk/overview": [
-    "marcklingen",
     "maxdeichmann",
-    "hassiebp",
+    "Lotte-Verheyden",
     "jannikmaierhoefer",
+    "marcklingen",
+    "hassiebp",
     "milanagm",
     "bezbac",
-    "clemra",
-    "Lotte-Verheyden"
+    "clemra"
   ],
   "/docs/observability/sdk/troubleshooting-and-faq": [
     "Lotte-Verheyden",
@@ -736,10 +785,12 @@
     "bezbac"
   ],
   "/docs/observability/sdk/upgrade-path/python-v2-to-v3": [
+    "jannikmaierhoefer",
     "bezbac",
     "maxdeichmann"
   ],
   "/docs/observability/sdk/upgrade-path/python-v3-to-v4": [
+    "Lotte-Verheyden",
     "hassiebp",
     "marcklingen",
     "maxdeichmann",
@@ -797,8 +848,8 @@
     "marcklingen"
   ],
   "/docs/prompt-management/features/link-to-traces": [
-    "wochinge",
     "Lotte-Verheyden",
+    "wochinge",
     "marcklingen",
     "jannikmaierhoefer"
   ],
@@ -855,8 +906,8 @@
     "hassiebp"
   ],
   "/docs/prompt-management/overview": [
-    "marcklingen",
     "jannikmaierhoefer",
+    "marcklingen",
     "bezbac",
     "Lotte-Verheyden"
   ],
@@ -865,6 +916,7 @@
     "jannikmaierhoefer"
   ],
   "/docs/roadmap": [
+    "annabellscha",
     "marcklingen",
     "Lotte-Verheyden",
     "wochinge",
@@ -882,8 +934,9 @@
     "skpersonal"
   ],
   "/docs/v4": [
-    "jannikmaierhoefer",
+    "niklassemmler",
     "Lotte-Verheyden",
+    "jannikmaierhoefer",
     "marliessophie",
     "nimarb",
     "maxdeichmann",
@@ -891,16 +944,17 @@
     "hassiebp",
     "marcklingen",
     "Steffen911",
-    "niklassemmler",
     "bezbac",
     "annabellscha",
     "sumerman"
   ],
   "/faq/all/ai-research-assistant-monitoring": [
+    "julamarkova-vibe",
     "jannikmaierhoefer",
     "marcklingen"
   ],
   "/faq/all/api-524-http-errors": [
+    "niklassemmler",
     "jannikmaierhoefer",
     "Lotte-Verheyden",
     "maxdeichmann",
@@ -908,6 +962,7 @@
     "Steffen911"
   ],
   "/faq/all/api-limits": [
+    "niklassemmler",
     "jannikmaierhoefer",
     "Lotte-Verheyden",
     "AkioNuernberger",
@@ -940,15 +995,16 @@
     "clemra"
   ],
   "/faq/all/blob-storage-config-changes-and-errors": [
+    "niklassemmler",
     "jannikmaierhoefer",
-    "maxdeichmann",
-    "niklassemmler"
+    "maxdeichmann"
   ],
   "/faq/all/blob-storage-empty-files": [
-    "maxdeichmann",
-    "niklassemmler"
+    "niklassemmler",
+    "maxdeichmann"
   ],
   "/faq/all/blob-storage-export-timing-and-retries": [
+    "niklassemmler",
     "maxdeichmann"
   ],
   "/faq/all/cannot-see-organization": [
@@ -981,6 +1037,7 @@
     "clemra"
   ],
   "/faq/all/custom-langchain-run-names": [
+    "niklassemmler",
     "jannikmaierhoefer",
     "marcklingen"
   ],
@@ -995,11 +1052,12 @@
     "marcklingen"
   ],
   "/faq/all/dashboard-changes-in-v4": [
+    "niklassemmler",
+    "Lotte-Verheyden",
     "sumerman",
     "marcklingen",
     "Steffen911",
-    "bezbac",
-    "Lotte-Verheyden"
+    "bezbac"
   ],
   "/faq/all/data-retention-timeouts-and-errors": [
     "jannikmaierhoefer",
@@ -1017,22 +1075,22 @@
     "clemra"
   ],
   "/faq/all/deprecated-api-migration": [
+    "niklassemmler",
+    "nimarb",
     "Lotte-Verheyden",
     "hassiebp",
-    "nimarb",
     "maxdeichmann",
     "marliessophie",
-    "sumerman",
-    "niklassemmler"
+    "sumerman"
   ],
   "/faq/all/empty-trace-input-and-output": [
+    "jannikmaierhoefer",
     "marcklingen",
     "marliessophie",
     "hassiebp",
     "bezbac",
     "maxdeichmann",
-    "Lotte-Verheyden",
-    "jannikmaierhoefer"
+    "Lotte-Verheyden"
   ],
   "/faq/all/enable-disable-tracing": [
     "jannikmaierhoefer",
@@ -1051,6 +1109,7 @@
     "marcklingen"
   ],
   "/faq/all/existing-otel-setup": [
+    "niklassemmler",
     "jannikmaierhoefer",
     "CodeCLS",
     "hassiebp",
@@ -1133,6 +1192,7 @@
     "clemra"
   ],
   "/faq/all/llm-as-a-judge-migration": [
+    "Lotte-Verheyden",
     "jannikmaierhoefer",
     "wochinge",
     "marliessophie",
@@ -1141,8 +1201,7 @@
     "sumerman",
     "maxdeichmann",
     "hassiebp",
-    "bezbac",
-    "Lotte-Verheyden"
+    "bezbac"
   ],
   "/faq/all/llm-observability": [
     "Lotte-Verheyden",
@@ -1165,10 +1224,12 @@
     "jannikmaierhoefer"
   ],
   "/faq/all/managing-skills-with-prompt-management": [
-    "bezbac",
-    "Lotte-Verheyden"
+    "Lotte-Verheyden",
+    "bezbac"
   ],
   "/faq/all/migrate-data-between-langfuse-instances": [
+    "niklassemmler",
+    "jannikmaierhoefer",
     "marcklingen"
   ],
   "/faq/all/migrate-from-helicone": [
@@ -1198,6 +1259,7 @@
     "jannikmaierhoefer"
   ],
   "/faq/all/openai-assistant-api": [
+    "niklassemmler",
     "jannikmaierhoefer",
     "marcklingen"
   ],
@@ -1206,6 +1268,7 @@
     "marcklingen"
   ],
   "/faq/all/partner-integration-v4-upgrade": [
+    "niklassemmler",
     "marliessophie",
     "nimarb"
   ],
@@ -1224,6 +1287,7 @@
     "clemra"
   ],
   "/faq/all/retrieve-experiment-scores": [
+    "niklassemmler",
     "marliessophie",
     "maxdeichmann",
     "wochinge",
@@ -1301,6 +1365,9 @@
     "Steffen911",
     "marcklingen",
     "maxdeichmann"
+  ],
+  "/faq/all/troubleshoot-self-hosted-langfuse-assistant": [
+    "LysanderKie"
   ],
   "/faq/all/unwanted-http-database-spans": [
     "jannikmaierhoefer",
@@ -1692,9 +1759,9 @@
     "Lotte-Verheyden"
   ],
   "/guides/index": [
+    "jannikmaierhoefer",
     "hande-k",
     "Lotte-Verheyden",
-    "jannikmaierhoefer",
     "annabellscha",
     "wochinge",
     "nktrk",
@@ -1758,9 +1825,9 @@
     "marcklingen"
   ],
   "/handbook/chapters/customers": [
+    "annabellscha",
     "jannikmaierhoefer",
     "marcklingen",
-    "annabellscha",
     "felixkrrr",
     "AkioNuernberger",
     "leonardwolters"
@@ -1896,6 +1963,7 @@
     "maxdeichmann"
   ],
   "/handbook/product-engineering/how-we-work/code-review": [
+    "orhanrauf",
     "Steffen911",
     "bezbac",
     "maxdeichmann"
@@ -2044,6 +2112,7 @@
     "marcklingen"
   ],
   "/integrations/analytics/mixpanel": [
+    "jannikmaierhoefer",
     "marliessophie",
     "nimarb",
     "marcklingen",
@@ -2051,6 +2120,7 @@
     "maxdeichmann"
   ],
   "/integrations/analytics/posthog": [
+    "jannikmaierhoefer",
     "marliessophie",
     "nimarb",
     "marcklingen",
@@ -2060,9 +2130,25 @@
   "/integrations/analytics/trubrics": [
     "marcklingen"
   ],
+  "/integrations/clickhouse/agentic-data-stack": [
+    "marcklingen"
+  ],
+  "/integrations/clickhouse/data-warehouse": [
+    "marcklingen"
+  ],
+  "/integrations/clickhouse/librechat": [
+    "Lotte-Verheyden",
+    "jannikmaierhoefer",
+    "bezbac",
+    "clemra",
+    "felixkrrr"
+  ],
+  "/integrations/clickhouse/observability": [
+    "marcklingen"
+  ],
   "/integrations/developer-tools/augment-code": [
-    "hassiebp",
-    "jannikmaierhoefer"
+    "jannikmaierhoefer",
+    "hassiebp"
   ],
   "/integrations/developer-tools/claude-code": [
     "jannikmaierhoefer",
@@ -2070,41 +2156,43 @@
     "nkabardin"
   ],
   "/integrations/developer-tools/codex": [
-    "AkioNuernberger",
     "jannikmaierhoefer",
+    "AkioNuernberger",
     "Blargian"
   ],
   "/integrations/developer-tools/cursor": [
-    "marcklingen",
-    "jannikmaierhoefer"
+    "jannikmaierhoefer",
+    "marcklingen"
   ],
   "/integrations/developer-tools/github-copilot": [
-    "Blargian",
-    "jannikmaierhoefer"
+    "jannikmaierhoefer",
+    "Blargian"
   ],
   "/integrations/developer-tools/kiro": [
-    "jannikmaierhoefer"
-  ],
-  "/integrations/developer-tools/kiro-cli": [
-    "jannikmaierhoefer"
-  ],
-  "/integrations/developer-tools/opencode": [
-    "marcklingen",
-    "Blargian",
-    "jannikmaierhoefer"
-  ],
-  "/integrations/developer-tools/pi-agent": [
-    "milanagm",
-    "hassiebp",
-    "jannikmaierhoefer"
-  ],
-  "/integrations/developer-tools/vscode": [
     "Lotte-Verheyden",
     "jannikmaierhoefer"
   ],
-  "/integrations/frameworks/agno-agents": [
-    "milanagm",
+  "/integrations/developer-tools/kiro-cli": [
+    "Lotte-Verheyden",
+    "jannikmaierhoefer"
+  ],
+  "/integrations/developer-tools/opencode": [
     "jannikmaierhoefer",
+    "marcklingen",
+    "Blargian"
+  ],
+  "/integrations/developer-tools/pi-agent": [
+    "jannikmaierhoefer",
+    "milanagm",
+    "hassiebp"
+  ],
+  "/integrations/developer-tools/vscode": [
+    "jannikmaierhoefer",
+    "Lotte-Verheyden"
+  ],
+  "/integrations/frameworks/agno-agents": [
+    "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "marcklingen"
@@ -2114,6 +2202,8 @@
     "bezbac"
   ],
   "/integrations/frameworks/amazon-agentcore": [
+    "morganwilliscloud",
+    "jannikmaierhoefer",
     "milanagm",
     "clemra",
     "hassiebp",
@@ -2121,41 +2211,41 @@
     "marcklingen"
   ],
   "/integrations/frameworks/autogen": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "maxdeichmann",
     "marcklingen"
   ],
   "/integrations/frameworks/beeai": [
+    "jannikmaierhoefer",
     "milanagm",
     "Blargian",
     "bezbac",
-    "clemra",
-    "jannikmaierhoefer"
+    "clemra"
   ],
   "/integrations/frameworks/claude-agent-sdk": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra"
   ],
   "/integrations/frameworks/claude-agent-sdk-js": [
+    "jannikmaierhoefer",
     "bezbac",
-    "clemra",
-    "jannikmaierhoefer"
+    "clemra"
   ],
   "/integrations/frameworks/crewai": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "marcklingen"
   ],
   "/integrations/frameworks/dspy": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "marcklingen"
@@ -2178,16 +2268,16 @@
     "marcklingen"
   ],
   "/integrations/frameworks/haystack": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "marcklingen"
   ],
   "/integrations/frameworks/instructor": [
+    "jannikmaierhoefer",
     "milanagm",
     "Blargian",
-    "jannikmaierhoefer",
     "bezbac",
     "clemra",
     "marcklingen"
@@ -2198,6 +2288,7 @@
     "marcklingen"
   ],
   "/integrations/frameworks/langchain": [
+    "niklassemmler",
     "jannikmaierhoefer",
     "Lotte-Verheyden",
     "hassiebp",
@@ -2208,8 +2299,8 @@
     "marcklingen"
   ],
   "/integrations/frameworks/langchain-deepagents": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "marcklingen"
@@ -2222,29 +2313,29 @@
     "marcklingen"
   ],
   "/integrations/frameworks/litellm-sdk": [
+    "jannikmaierhoefer",
     "milanagm",
     "bezbac",
     "clemra",
     "hassiebp",
-    "jannikmaierhoefer",
     "marcklingen"
   ],
   "/integrations/frameworks/livekit": [
+    "jannikmaierhoefer",
     "milanagm",
     "Lotte-Verheyden",
-    "jannikmaierhoefer",
     "marcklingen"
   ],
   "/integrations/frameworks/llamaindex": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "marcklingen"
   ],
   "/integrations/frameworks/llamaindex-workflows": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "marcklingen"
@@ -2254,21 +2345,22 @@
     "marcklingen"
   ],
   "/integrations/frameworks/microsoft-agent-framework": [
+    "jannikmaierhoefer",
     "milanagm",
     "bezbac",
     "clemra",
-    "jannikmaierhoefer",
     "marcklingen"
   ],
   "/integrations/frameworks/mirascope": [
+    "jannikmaierhoefer",
     "marcklingen"
   ],
   "/integrations/frameworks/openai-agents": [
+    "jannikmaierhoefer",
     "milanagm",
     "Blargian",
     "bezbac",
     "clemra",
-    "jannikmaierhoefer",
     "marcklingen"
   ],
   "/integrations/frameworks/pipecat": [
@@ -2284,8 +2376,8 @@
     "cyh0530"
   ],
   "/integrations/frameworks/pydantic-ai": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "Lotte-Verheyden",
@@ -2293,6 +2385,7 @@
   ],
   "/integrations/frameworks/quarkus-langchain4j": [
     "jannikmaierhoefer",
+    "edeandrea",
     "hassiebp",
     "marcklingen"
   ],
@@ -2303,24 +2396,26 @@
     "marcklingen"
   ],
   "/integrations/frameworks/restate": [
+    "jannikmaierhoefer",
     "Lotte-Verheyden"
   ],
   "/integrations/frameworks/semantic-kernel": [
+    "jannikmaierhoefer",
     "milanagm",
     "bezbac",
     "clemra",
-    "jannikmaierhoefer",
     "marcklingen"
   ],
   "/integrations/frameworks/smolagents": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "FacerAin",
     "bezbac",
     "clemra",
     "marcklingen"
   ],
   "/integrations/frameworks/spring-ai": [
+    "muxiaoming",
     "hassiebp",
     "CodeCLS",
     "jannikmaierhoefer",
@@ -2329,9 +2424,10 @@
     "marcklingen"
   ],
   "/integrations/frameworks/strands-agents": [
+    "morganwilliscloud",
+    "jannikmaierhoefer",
     "milanagm",
     "Blargian",
-    "jannikmaierhoefer",
     "bezbac",
     "clemra",
     "marcklingen"
@@ -2345,17 +2441,17 @@
     "jannikmaierhoefer"
   ],
   "/integrations/frameworks/temporal": [
+    "jannikmaierhoefer",
     "milanagm",
     "DABH",
     "Blargian",
     "bezbac",
-    "clemra",
-    "jannikmaierhoefer"
+    "clemra"
   ],
   "/integrations/frameworks/vercel-ai-sdk": [
+    "jannikmaierhoefer",
     "Blargian",
     "hassiebp",
-    "jannikmaierhoefer",
     "CodeCLS",
     "bezbac",
     "clemra",
@@ -2370,8 +2466,8 @@
     "marcklingen"
   ],
   "/integrations/frameworks/watsonx-orchestrate": [
-    "bezbac",
-    "jannikmaierhoefer"
+    "jannikmaierhoefer",
+    "bezbac"
   ],
   "/integrations/gateways/anannas": [
     "jannikmaierhoefer",
@@ -2384,38 +2480,38 @@
     "marcklingen"
   ],
   "/integrations/gateways/helicone": [
-    "hassiebp",
     "jannikmaierhoefer",
+    "hassiebp",
     "bezbac",
     "clemra",
     "juliettech13"
   ],
   "/integrations/gateways/kong-ai-plugin": [
-    "marliessophie",
     "jannikmaierhoefer",
+    "marliessophie",
     "bezbac",
     "clemra",
     "Ramtinboreili"
   ],
   "/integrations/gateways/litellm": [
-    "Lotte-Verheyden",
     "jannikmaierhoefer",
+    "Lotte-Verheyden",
     "i-anubhav-anand",
     "clemra",
     "marcklingen"
   ],
   "/integrations/gateways/openrouter": [
+    "jannikmaierhoefer",
     "CodeCLS",
     "Blargian",
-    "jannikmaierhoefer",
     "clemra",
     "hassiebp",
     "marcklingen",
     "Lotte-Verheyden"
   ],
   "/integrations/gateways/portkey": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "marcklingen"
@@ -2453,38 +2549,39 @@
     "marcklingen"
   ],
   "/integrations/model-providers/amazon-bedrock-agents": [
+    "jannikmaierhoefer",
     "marcklingen"
   ],
   "/integrations/model-providers/anthropic": [
+    "jannikmaierhoefer",
     "milanagm",
     "Blargian",
     "bezbac",
-    "clemra",
-    "jannikmaierhoefer"
+    "clemra"
   ],
   "/integrations/model-providers/anthropic-js": [
+    "jannikmaierhoefer",
     "Blargian",
     "bezbac",
-    "clemra",
-    "jannikmaierhoefer"
+    "clemra"
   ],
   "/integrations/model-providers/baseten": [
+    "jannikmaierhoefer",
     "milanagm",
     "Blargian",
-    "jannikmaierhoefer",
     "bezbac",
     "clemra",
     "felixkrrr"
   ],
   "/integrations/model-providers/byteplus": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra"
   ],
   "/integrations/model-providers/cerebras": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra"
   ],
@@ -2498,22 +2595,22 @@
     "marcklingen"
   ],
   "/integrations/model-providers/cohere": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "marcklingen"
   ],
   "/integrations/model-providers/cometapi": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "TensorNull"
   ],
   "/integrations/model-providers/databricks": [
-    "Lotte-Verheyden",
     "jannikmaierhoefer",
+    "Lotte-Verheyden",
     "marcklingen"
   ],
   "/integrations/model-providers/deepseek": [
@@ -2524,8 +2621,8 @@
     "marcklingen"
   ],
   "/integrations/model-providers/fireworks-ai": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "marcklingen"
@@ -2537,10 +2634,10 @@
     "clemra"
   ],
   "/integrations/model-providers/google-vertex-ai": [
+    "jannikmaierhoefer",
     "milanagm",
     "bezbac",
     "clemra",
-    "jannikmaierhoefer",
     "marcklingen"
   ],
   "/integrations/model-providers/groq": [
@@ -2566,11 +2663,12 @@
     "marcklingen"
   ],
   "/integrations/model-providers/morph": [
+    "jannikmaierhoefer",
     "shreybirmiwalmorph"
   ],
   "/integrations/model-providers/novitaai": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "marcklingen"
@@ -2594,53 +2692,56 @@
     "marcklingen"
   ],
   "/integrations/model-providers/openai-js": [
+    "niklassemmler",
     "Lotte-Verheyden",
+    "jannikmaierhoefer",
     "alexleventer",
     "Blargian",
     "bezbac",
-    "jannikmaierhoefer",
     "kulakowka",
     "marcklingen"
   ],
   "/integrations/model-providers/openai-py": [
+    "niklassemmler",
     "Lotte-Verheyden",
-    "Blargian",
     "jannikmaierhoefer",
+    "Blargian",
     "clemra",
     "maxdeichmann",
     "marcklingen"
   ],
   "/integrations/model-providers/qwen": [
+    "jannikmaierhoefer",
     "milanagm",
     "Blargian",
-    "jannikmaierhoefer",
     "bezbac"
   ],
   "/integrations/model-providers/togetherai": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "marcklingen"
   ],
   "/integrations/model-providers/vllm": [
-    "milanagm",
+    "Lotte-Verheyden",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra"
   ],
   "/integrations/model-providers/xai-grok": [
+    "jannikmaierhoefer",
     "Lotte-Verheyden",
     "milanagm",
     "Blargian",
-    "jannikmaierhoefer",
     "bezbac",
     "clemra",
     "marcklingen"
   ],
   "/integrations/model-providers/z-ai": [
-    "milanagm",
-    "jannikmaierhoefer"
+    "jannikmaierhoefer",
+    "milanagm"
   ],
   "/integrations/native/opentelemetry": [
     "hassiebp",
@@ -2651,27 +2752,33 @@
     "Steffen911"
   ],
   "/integrations/native/opentelemetry/experiments": [
+    "marliessophie",
     "maxdeichmann",
     "hassiebp"
   ],
   "/integrations/native/opentelemetry/index": [
+    "morganwilliscloud",
     "maxdeichmann",
+    "niklassemmler",
+    "Lotte-Verheyden",
     "Steffen911",
     "jannikmaierhoefer",
     "hassiebp"
   ],
   "/integrations/native/opentelemetry/migration-to-v4": [
+    "niklassemmler",
     "Steffen911",
     "marcklingen",
     "hassiebp"
   ],
   "/integrations/no-code/dify": [
+    "jannikmaierhoefer",
     "Blargian",
     "bezbac",
-    "jannikmaierhoefer",
     "marcklingen"
   ],
   "/integrations/no-code/elevenlabs": [
+    "jannikmaierhoefer",
     "hande-k"
   ],
   "/integrations/no-code/flowise": [
@@ -2681,6 +2788,7 @@
     "marcklingen"
   ],
   "/integrations/no-code/goose": [
+    "jannikmaierhoefer",
     "Blargian",
     "clemra",
     "marcklingen"
@@ -2697,6 +2805,7 @@
     "marcklingen"
   ],
   "/integrations/no-code/lobechat": [
+    "hassiebp",
     "jannikmaierhoefer",
     "marcklingen"
   ],
@@ -2706,15 +2815,16 @@
     "marcklingen"
   ],
   "/integrations/no-code/openwebui": [
+    "jannikmaierhoefer",
     "Blargian",
     "bezbac",
-    "jannikmaierhoefer",
     "marcklingen"
   ],
   "/integrations/no-code/ragflow": [
     "marcklingen"
   ],
   "/integrations/no-code/vapi": [
+    "niklassemmler",
     "jannikmaierhoefer",
     "clemra",
     "marcklingen"
@@ -2735,44 +2845,46 @@
     "jannikmaierhoefer"
   ],
   "/integrations/other/everos": [
+    "jannikmaierhoefer",
     "dani1005"
   ],
   "/integrations/other/exa": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "10ishq",
     "bezbac",
     "clemra"
   ],
   "/integrations/other/firecrawl": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "marcklingen"
   ],
   "/integrations/other/gradio": [
+    "jannikmaierhoefer",
     "milanagm",
     "hassiebp",
-    "jannikmaierhoefer",
     "bezbac",
     "clemra",
     "maxdeichmann",
     "marcklingen"
   ],
   "/integrations/other/hermes": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "wochinge"
   ],
   "/integrations/other/inferable": [
+    "jannikmaierhoefer",
     "marcklingen"
   ],
   "/integrations/other/librechat": [
+    "jannikmaierhoefer",
     "bezbac",
     "clemra",
-    "felixkrrr",
-    "jannikmaierhoefer"
+    "felixkrrr"
   ],
   "/integrations/other/mcp-use": [
     "Blargian",
@@ -2780,18 +2892,18 @@
     "marcklingen"
   ],
   "/integrations/other/milvus": [
+    "jannikmaierhoefer",
     "milanagm",
     "hassiebp",
     "clemra",
-    "jannikmaierhoefer",
     "marcklingen"
   ],
   "/integrations/other/mlflow": [
     "Lotte-Verheyden"
   ],
   "/integrations/other/openclaw": [
-    "CodeCLS",
     "jannikmaierhoefer",
+    "CodeCLS",
     "marcklingen",
     "Lotte-Verheyden"
   ],
@@ -2805,9 +2917,9 @@
     "Lotte-Verheyden"
   ],
   "/integrations/other/parallel-ai": [
+    "jannikmaierhoefer",
     "milanagm",
     "Blargian",
-    "jannikmaierhoefer",
     "bezbac",
     "clemra"
   ],
@@ -2822,15 +2934,17 @@
     "wochinge"
   ],
   "/integrations/other/tavily": [
+    "jannikmaierhoefer",
     "lakshyaag-tavily"
   ],
   "/integrations/other/testable-minds": [
+    "jannikmaierhoefer",
     "bezbac",
     "acip"
   ],
   "/integrations/other/weco": [
-    "milanagm",
     "jannikmaierhoefer",
+    "milanagm",
     "bezbac",
     "clemra",
     "aliroberts"
@@ -2839,8 +2953,12 @@
     "marcklingen"
   ],
   "/resources/engineering/ai-agent-evaluation": [
+    "Lotte-Verheyden",
     "jannikmaierhoefer",
     "wochinge"
+  ],
+  "/resources/engineering/ai-safety": [
+    "jannikmaierhoefer"
   ],
   "/resources/engineering/answer-relevance-evaluation": [
     "jannikmaierhoefer"
@@ -2864,6 +2982,7 @@
     "jannikmaierhoefer"
   ],
   "/resources/engineering/clarifications": [
+    "marcklingen",
     "nimarb",
     "hande-k"
   ],
@@ -2874,9 +2993,13 @@
     "jannikmaierhoefer"
   ],
   "/resources/engineering/coding-agent-tracing": [
+    "annabellscha",
     "jannikmaierhoefer"
   ],
   "/resources/engineering/deepeval": [
+    "jannikmaierhoefer"
+  ],
+  "/resources/engineering/evaluate-existing-application": [
     "jannikmaierhoefer"
   ],
   "/resources/engineering/evaluating-sessions-conversations": [
@@ -2896,6 +3019,7 @@
     "jannikmaierhoefer"
   ],
   "/resources/engineering/index": [
+    "marcklingen",
     "jannikmaierhoefer"
   ],
   "/resources/engineering/knot-emoji": [
@@ -2905,6 +3029,7 @@
     "jannikmaierhoefer"
   ],
   "/resources/engineering/langfuse-for-product-teams": [
+    "LysanderKie",
     "nimarb",
     "jannikmaierhoefer"
   ],
@@ -2916,8 +3041,8 @@
     "jannikmaierhoefer"
   ],
   "/resources/engineering/langsmith-alternative": [
-    "jannikmaierhoefer",
     "hande-k",
+    "jannikmaierhoefer",
     "Lotte-Verheyden",
     "marksalpeter",
     "AkioNuernberger",
@@ -2929,38 +3054,50 @@
     "marksalpeter"
   ],
   "/resources/engineering/llm-evaluation-strategy": [
+    "marcklingen",
     "Lotte-Verheyden",
     "marksalpeter",
-    "marcklingen",
     "jannikmaierhoefer"
   ],
   "/resources/engineering/llm-gateway": [
     "jannikmaierhoefer"
   ],
   "/resources/engineering/llm-regression-testing": [
+    "jannikmaierhoefer",
+    "marcklingen",
     "Lotte-Verheyden",
-    "marksalpeter",
-    "jannikmaierhoefer"
+    "marksalpeter"
   ],
   "/resources/engineering/migrate-from-arize-ax": [
+    "marcklingen",
     "Lotte-Verheyden",
     "hande-k"
   ],
   "/resources/engineering/migrate-from-braintrust": [
+    "hande-k",
+    "marcklingen",
     "jannikmaierhoefer"
   ],
   "/resources/engineering/migrate-from-helicone": [
+    "hande-k",
     "hassiebp",
     "jannikmaierhoefer"
   ],
+  "/resources/engineering/migrate-from-langsmith": [
+    "marcklingen",
+    "hande-k"
+  ],
   "/resources/engineering/migrate-from-phoenix": [
+    "marcklingen",
     "hande-k",
     "jannikmaierhoefer"
   ],
   "/resources/engineering/migrate-from-promptfoo": [
+    "hande-k",
     "jannikmaierhoefer"
   ],
   "/resources/engineering/opentelemetry-languages": [
+    "Lotte-Verheyden",
     "hassiebp",
     "jannikmaierhoefer"
   ],
@@ -2982,6 +3119,7 @@
     "jannikmaierhoefer"
   ],
   "/resources/engineering/user-feedback-to-evaluation-datasets": [
+    "Lotte-Verheyden",
     "jannikmaierhoefer"
   ],
   "/resources/engineering/webinar-observability-llm-systems": [
@@ -2989,6 +3127,7 @@
     "Lotte-Verheyden"
   ],
   "/security/ai-features": [
+    "LysanderKie",
     "wochinge",
     "bezbac",
     "nimarb",
@@ -3119,6 +3258,7 @@
     "marcklingen"
   ],
   "/self-hosting/administration/headless-initialization": [
+    "dfk1352",
     "Steffen911",
     "marcklingen"
   ],
@@ -3147,6 +3287,7 @@
     "marcklingen"
   ],
   "/self-hosting/configuration/code-evaluators": [
+    "LysanderKie",
     "Steffen911",
     "wochinge"
   ],
@@ -3167,12 +3308,16 @@
     "marcklingen"
   ],
   "/self-hosting/configuration/index": [
+    "LysanderKie",
     "wochinge",
     "DavidTraina",
     "Steffen911",
     "nimarb",
     "bezbac",
     "marcklingen"
+  ],
+  "/self-hosting/configuration/langfuse-assistant": [
+    "LysanderKie"
   ],
   "/self-hosting/configuration/observability": [
     "marcklingen"
@@ -3195,8 +3340,8 @@
     "Steffen911"
   ],
   "/self-hosting/deployment/docker-compose": [
-    "Steffen911",
     "jannikmaierhoefer",
+    "Steffen911",
     "marcklingen"
   ],
   "/self-hosting/deployment/gcp": [
@@ -3214,6 +3359,7 @@
     "marcklingen"
   ],
   "/self-hosting/deployment/infrastructure/cache": [
+    "redis-phil",
     "Steffen911",
     "bezbac",
     "jannikmaierhoefer",
@@ -3231,10 +3377,12 @@
     "jannikmaierhoefer"
   ],
   "/self-hosting/deployment/infrastructure/containers": [
+    "jannikmaierhoefer",
     "Steffen911",
     "marcklingen"
   ],
   "/self-hosting/deployment/infrastructure/llm-api": [
+    "LysanderKie",
     "Steffen911",
     "jannikmaierhoefer",
     "marcklingen"
@@ -3245,6 +3393,7 @@
     "marcklingen"
   ],
   "/self-hosting/deployment/kubernetes-helm": [
+    "jannikmaierhoefer",
     "marcklingen",
     "Steffen911"
   ],
@@ -3257,18 +3406,18 @@
     "anurag"
   ],
   "/self-hosting/index": [
+    "jannikmaierhoefer",
     "marcklingen",
     "Steffen911",
     "anurag",
-    "jannikmaierhoefer",
     "bezbac",
     "sumerman",
     "Lotte-Verheyden",
     "clemra"
   ],
   "/self-hosting/license-key": [
-    "Steffen911",
     "marcklingen",
+    "Steffen911",
     "AkioNuernberger"
   ],
   "/self-hosting/oss-newsletter": [
@@ -3298,6 +3447,8 @@
     "marcklingen"
   ],
   "/self-hosting/security/telemetry": [
+    "LysanderKie",
+    "jannikmaierhoefer",
     "Steffen911",
     "marcklingen"
   ],
@@ -3310,9 +3461,9 @@
     "marcklingen"
   ],
   "/self-hosting/upgrade/index": [
+    "jannikmaierhoefer",
     "marcklingen",
-    "Steffen911",
-    "jannikmaierhoefer"
+    "Steffen911"
   ],
   "/self-hosting/upgrade/upgrade-guides/upgrade-v1-to-v2": [
     "marcklingen",
@@ -3322,6 +3473,7 @@
     "marcklingen"
   ],
   "/self-hosting/upgrade/upgrade-guides/upgrade-v3-to-v4": [
+    "niklassemmler",
     "Lotte-Verheyden",
     "Steffen911",
     "marliessophie",
